@@ -35,4 +35,4 @@ Completing the project involves several steps:
 5. Create a CodePipeline pipeline triggered by GitHub checkins
 6. Create a CodeBuild stage which will build, test, and deploy your code
 
-For more detail about each of these steps, see the project lesson [here](https://classroom.udacity.com/nanodegrees/nd004/parts/1d842ebf-5b10-4749-9e5e-ef28fe98f173/modules/ac13842f-c841-4c1a-b284-b47899f4613d/lessons/becb2dac-c108-4143-8f6c-11b30413e28d/concepts/092cdb35-28f7-4145-b6e6-6278b8dd7527).
+For more detail about each of these steps, see the project lesson [here](https://learn.udacity.com/nanodegrees/nd0044-alg-t2-fr/parts/2a7a2833-4109-4c7f-87ac-93e213209857/lessons/3338f822-25a7-455b-b962-43669d4683ad/concepts/28ffd7db-3df3-43fc-ac9b-22976b6592dc).
